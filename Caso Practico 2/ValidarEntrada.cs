@@ -2,7 +2,6 @@
 
 public class ValidarEntrada
 {
-    // Método nuevo para obligar a que el texto no esté vacío
     public static string ObtenerTexto(string mensaje)
     {
         Console.WriteLine(mensaje);
